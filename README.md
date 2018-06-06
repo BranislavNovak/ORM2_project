@@ -5,5 +5,4 @@ Sender:
 - treba obezbediti da se prebaci na uredjaj koji nije iskljucen (wifi ili eth)
 
 Receiver:
-- pogledati koja od handler funkcija radi kako treba i nju primeniti
-- proveriti gde se cuva fajl koji dostigne
+- U potpunosti ispravan!
